@@ -7,7 +7,7 @@
 Passionate about building responsive, user-friendly websites and web applications. I specialize in creating dynamic front-end experiences with React.js and Next.js, while also delivering robust back-end solutions. With expertise in WordPress and Shopify, I craft seamless, scalable, and customizable CMS platforms for businesses of all sizes.  
 
 Let’s build something amazing together! 🌟 
-
+🔭 I’m currently working on [My Linguaschool](https://github.com/malikabubakar01/mylinguaschool-backend)
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
