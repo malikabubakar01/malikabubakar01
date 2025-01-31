@@ -44,8 +44,6 @@ Let’s build something amazing together! 🌟
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikabubakar01&show_icons=true&locale=en" alt="malikabubakar01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikabubakar01&" alt="malikabubakar01" /></p>
-
 <!---
 malikabubakar01/malikabubakar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
