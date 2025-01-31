@@ -32,9 +32,6 @@ Let’s build something amazing together! 🌟
 ![MERN](https://img.shields.io/badge/-MERN-00D8FF?logo=react&logoColor=white)
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-abubakkar-13701b20b/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hai19)
