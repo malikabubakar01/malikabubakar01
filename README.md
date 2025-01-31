@@ -1,6 +1,6 @@
 # Hi, I'm Malik Abubakkar 👋
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952xfwm84x55ak8e4pmss08uecpezcpcp1spqlhx3gh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="[https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952xfwm84x55ak8e4pmss08uecpezcpcp1spqlhx3gh&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952rpb58t984movt5jm9oagladycm3e2nmnv05bwhfm&ep=v1_gifs_search&rid=200w.gif&ct=g)">
 
 🚀 **Full-Stack Developer | CMS Specialist**  
 💻 **Tech Stack**: HTML, CSS, JavaScript, React.js, Next.js, PHP, Laravel, MySql  
