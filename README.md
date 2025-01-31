@@ -9,6 +9,12 @@ Passionate about building responsive, user-friendly websites and web application
 Let’s build something amazing together! 🌟 
 
 🔭 I’m currently working on [My Linguaschool](https://github.com/malikabubakar01/mylinguaschool-backend)
+
+- 👨‍💻 All of my projects are available at [https://malikabubakar.com/](https://malikabubakar.com/)
+
+- 📫 How to reach me **info@malikabubakar.com**
+
+- ⚡ Fun fact **I think I am funny... but my code might be funnier! 😄**
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
