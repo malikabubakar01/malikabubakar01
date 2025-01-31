@@ -1,7 +1,6 @@
 # Hi, I'm Malik Abubakkar 👋
 
-<img align="right" alt="coding" width="400" src="[image](https://github.com/user-attachments/assets/1ce44aef-baca-4423-969f-5b78ac9e0381)
-">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952xfwm84x55ak8e4pmss08uecpezcpcp1spqlhx3gh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 🚀 **Full-Stack Developer | CMS Specialist**  
 💻 **Tech Stack**: HTML, CSS, JavaScript, React.js, Next.js, PHP, Laravel, MySql  
