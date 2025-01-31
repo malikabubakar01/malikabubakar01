@@ -1,6 +1,6 @@
 # Hi, I'm Malik Abubakkar 👋
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952xfwm84x55ak8e4pmss08uecpezcpcp1spqlhx3gh&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="coding" width="400" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952xfwm84x55ak8e4pmss08uecpezcpcp1spqlhx3gh&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-coding&psig=AOvVaw3TIik78ByQMEFE5jUAMDrv&ust=1738446736874000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwio-Pvy-KCLAxUDWqQEHbdbJMoQjRx6BAgAEBg)">
 
 🚀 **Full-Stack Developer | CMS Specialist**  
 💻 **Tech Stack**: HTML, CSS, JavaScript, React.js, Next.js, PHP, Laravel, MySql  
