@@ -4,7 +4,7 @@
 💻 Tech Stack: HTML, CSS, JavaScript, React.js, Next.js  
 🛠️ CMS Expert: WordPress & Shopify Development  
 
-<img align="right" alt="coding" widht="400" src="[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmU5U3g1cEV2MDlJT3NxUWJ5RTRWNVpxNGZ4QXxBQ3Jtc0tsNnFtVWtpTi1aRlpkV0REM2lYZVBxQzBXWDFKNXFUTTFJcG1oX1lTTDk2RlpRM3Y3eElPVWxUa3BZM2xrU2FELXJCZjRXenVncm5ULXNtT1JDbUZyVTBseXNQVWRZQUswYTg1cTB2Y011SkVjNzM2Zw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 Passionate about building responsive, user-friendly websites and web applications. I specialize in creating dynamic front-end experiences with React.js and Next.js, while also delivering robust back-end solutions. With expertise in WordPress and Shopify, I craft seamless, scalable, and customizable CMS platforms for businesses of all sizes.  
 
