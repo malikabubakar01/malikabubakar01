@@ -40,6 +40,12 @@ Let’s build something amazing together! 🌟
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/hai19)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/malik_abubakar184/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikabubakar01&show_icons=true&locale=en&layout=compact" alt="malikabubakar01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikabubakar01&show_icons=true&locale=en" alt="malikabubakar01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikabubakar01&" alt="malikabubakar01" /></p>
+
 <!---
 malikabubakar01/malikabubakar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
