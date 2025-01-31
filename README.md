@@ -1,6 +1,6 @@
 # Hi, I'm Malik Abubakkar 👋
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/1eb4c063-4272-46ab-80f1-fbc8de2d133f)
+<img align="right" alt="coding" width="400" src="[image](https://github.com/user-attachments/assets/1ce44aef-baca-4423-969f-5b78ac9e0381)
 ">
 
 🚀 **Full-Stack Developer | CMS Specialist**  
